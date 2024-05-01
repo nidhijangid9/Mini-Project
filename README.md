@@ -42,15 +42,9 @@ Sources:
     Frontend: Bootstrap
     Backend: YouTube tutorials.
     Machine Learning: 
-<<<<<<< HEAD
         -Machine Learning in Action(textbook)
         -Supporting Diverse ML Systems at Netflix(link)
         -Youtube tutorials
-=======
-        - Machine Learning in Action(textbook)
-        - Supporting Diverse ML Systems at Netflix(link)
-        - Youtube tutorials
->>>>>>> d505b18b2065a586565615fd0864998bb35ffb4b
     Streamlit: Official documentation for integration.
 
 
