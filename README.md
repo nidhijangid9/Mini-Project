@@ -12,7 +12,7 @@ Installation Steps:
     4. Install Django.
     6. Install other required dependencies(django, streamlit, numpy , cv2, mediapipe, tensorflow, keras, streamlit_webrtc).
     7. Before running the code, make sure to modify the file path according to your system's directory structure.
-    8. Run the Django server → 'python manage.py  runserver'
+    8. Run the Django server ----> 'python manage.py  runserver'
     9. Open your web browser and go to http://localhost:8000 to access the website.
     
 
