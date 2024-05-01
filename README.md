@@ -42,11 +42,17 @@ Sources:
     Frontend: Bootstrap
     Backend: YouTube tutorials.
     Machine Learning: 
+<<<<<<< HEAD
         -Machine Learning in Action(textbook)
         -Supporting Diverse ML Systems at Netflix(link)
         -Youtube tutorials
+=======
+        - Machine Learning in Action(textbook)
+        - Supporting Diverse ML Systems at Netflix(link)
+        - Youtube tutorials
+>>>>>>> d505b18b2065a586565615fd0864998bb35ffb4b
     Streamlit: Official documentation for integration.
 
 
-Conclusion
+Conclusion:- 
 This endeavor sharpened planning and execution abilities, offering practical insights into both web development and machine learning. It emphasized the value of incorporating buffer periods between project phases and provided a glimpse into the synergy between web development and machine learning.
