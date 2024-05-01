@@ -39,13 +39,13 @@ How to Use the Project:
 
 
 Sources:
-    - Frontend: Bootstrap
-    - Backend: YouTube tutorials.
-    - Machine Learning: 
+    Frontend: Bootstrap
+    Backend: YouTube tutorials.
+    Machine Learning: 
         - Machine Learning in Action(textbook)
         - Supporting Diverse ML Systems at Netflix(link)
         - Youtube tutorials
-    - Streamlit: Official documentation for integration.
+    Streamlit: Official documentation for integration.
 
 
 Conclusion
